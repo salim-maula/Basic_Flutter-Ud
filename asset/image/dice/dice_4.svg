@@ -1,0 +1,10 @@
+<svg id="Component_3_1" data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="142.749" height="142.749" viewBox="0 0 142.749 142.749">
+  <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(73.867) rotate(47)" fill="#00a2ff" stroke="#fff" stroke-width="1">
+    <rect width="101" height="101" rx="22" stroke="none"/>
+    <rect x="0.5" y="0.5" width="100" height="100" rx="21.5" fill="none"/>
+  </g>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="10" cy="10" r="10" transform="translate(31.626 60.123)" fill="#fff"/>
+  <circle id="Ellipse_10" data-name="Ellipse 10" cx="10" cy="10" r="10" transform="translate(92.374 62.123)" fill="#fff"/>
+  <circle id="Ellipse_11" data-name="Ellipse 11" cx="10" cy="10" r="10" transform="translate(62.374 30.749)" fill="#fff"/>
+  <circle id="Ellipse_12" data-name="Ellipse 12" cx="10" cy="10" r="10" transform="translate(61.374 92.123)" fill="#fff"/>
+</svg>

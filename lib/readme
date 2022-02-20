@@ -1,0 +1,2 @@
+flutter build apk --split-per-abi
+directori app->build\app\outputs\flutter-apk\app-armeabi-v7a-release.apk
